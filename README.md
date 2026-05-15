@@ -9,7 +9,7 @@ Psychro Weather ("we," "our," or "the App") is committed to protecting your priv
 
 2. Information Collection and Use
 Location Data
-  To provide accurate local weather forecasts, Wet Bulb Globe Temperature (WBGT) safety metrics, and emergency storm alerts (Sachet/NDMA alerts), the App requires access to your location.
+  To provide accurate local weather forecasts, Wet Bulb Globe Temperature (WBGT) safety metrics, Wind Chill Index (WCI) sefty metrics and emergency storm alerts (Sachet/NDMA alerts), the App requires access to your location.
 
   Precise Location: We collect precise location data (GPS and network-based) to provide weather information for your specific coordinates.
 
